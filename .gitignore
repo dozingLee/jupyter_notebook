@@ -1,0 +1,12 @@
+
+.ipynb_checkpoints/
+
+# My personal pytorch course
+PytorchCourse/
+
+.vector_cache/
+
+
+# datasets
+mnist_data/
+data.cifar10/
