@@ -1,4 +1,5 @@
 
+# Jupyter Notebook
 .ipynb_checkpoints/
 
 # My personal pytorch course
@@ -10,3 +11,6 @@ PytorchCourse/
 # datasets
 mnist_data/
 data.cifar10/
+
+# idea
+.idea/
