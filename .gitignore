@@ -11,6 +11,11 @@ PytorchCourse/
 # datasets
 mnist_data/
 data.cifar10/
+data.cifar100/
 
 # idea
 .idea/
+
+
+# logs
+logs/
